@@ -1,1 +1,1 @@
-# alura_challenges_ds1
+# Alura Challenges - Data Science
